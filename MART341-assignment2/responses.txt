@@ -1,1 +1,2 @@
-Test run 1
+Q1: The advantage to a text editor is it is a simple, easy to use editor. This is a fast to use. With it you can add, change, and remove characters easily. 
+Q2: These can be used for different purposes. The relative is best for text features that will need to be read. Absolute is better for items that need to be sized to match other elements. 
