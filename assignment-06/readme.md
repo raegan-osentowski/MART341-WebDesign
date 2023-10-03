@@ -8,7 +8,7 @@
     <body>
         <h1><b> Ingredients</b></h1>
         <hr>
-        <ol>
+        <ul>
             <li>16 oz chopped spinach<!--Frozen works great!--></li>
             <li>2 bunches parsley</li>
             <li>1 large yellow onion, finely chopped</li>
@@ -18,7 +18,7 @@
             <li>10 oz feta cheese</li>
             <li>2 tsp dill weed</li>
             <li>16 oz pacakge Phyllo Dough</li>
-        </ol>
+        </ul>
         <h2> Instruction</h2>
         <ol>
             <li>1. Heat oven to 325 degrees F</li>
