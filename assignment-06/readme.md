@@ -6,10 +6,10 @@
         </title>
     </head>
     <body>
-        <h1> Ingredients</h1>
+        <h1><b> Ingredients</b></h1>
         <hr>
         <ol>
-            <li>16 oz chopped spinach</li>
+            <li>16 oz chopped spinach<!--Frozen works great!--></li>
             <li>2 bunches parsley</li>
             <li>1 large yellow onion, finely chopped</li>
             <li>2 garlic cloves, minched</li>
