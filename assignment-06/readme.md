@@ -31,11 +31,12 @@
             <li>8. Bake at 325 for one hour</li>
             <li>9. Remove and enjoy!</li>
         </ol>
-        <a>https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie/</a>
+             <a>https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie/</a>
         <h3>Contact Information</h3>
-        <ol>
+        <ul>
             <li>Raegan Osentowski</li>
             <li> href="mailto:raegan@osentowski.net">Email</a></li>
+        </ul>    
 
         
 <hr>
