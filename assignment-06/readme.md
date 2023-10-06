@@ -21,21 +21,21 @@
         </ul>
         <h2> Instruction</h2>
         <ol>
-            <li>1. Heat oven to 325 degrees F</li>
-            <li>2. Mix filling ingredients</li>
-            <li>3. Unroll phyllo sheets and place between two damp kitchen cloths</li>
-            <li>4. Prepare a 9.5 by 13 baking dish and brush with olive oil</li>
-            <li>5. Add 2 sheets of phyllo dough then brush with olive oil, repeat until 2/3 sheets used</li>
-            <li>6. Spread filling over then cover with remaining dough</li>
-            <li>7. Fold flaps over the top and brush with olive oil</li>
-            <li>8. Bake at 325 for one hour</li>
-            <li>9. Remove and enjoy!</li>
+            <li>Heat oven to 325 degrees F</li>
+            <li>Mix filling ingredients</li>
+            <li>Unroll phyllo sheets and place between two damp kitchen cloths</li>
+            <li>Prepare a 9.5 by 13 baking dish and brush with olive oil</li>
+            <li>Add 2 sheets of phyllo dough then brush with olive oil, repeat until 2/3 sheets used</li>
+            <li>Spread filling over then cover with remaining dough</li>
+            <li>Fold flaps over the top and brush with olive oil</li>
+            <li>Bake at 325 for one hour</li>
+            <li>Remove and enjoy!</li>
         </ol>
              <a>https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie/</a>
         <h3>Contact Information</h3>
         <ul>
             <li>Raegan Osentowski</li>
-            <li> href="mailto:raegan@osentowski.net">Email</a></li>
+            <li>email:raegan@osentowski.net</a></li>
         </ul>    
 
         
