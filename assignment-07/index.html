@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Beans Coffee House</title>
+    <!-- Define characterset used-->
+    <meta charset="UTF-8">
+    <!-- Define page description-->
+    <meta name="description" content="This is the website for Beans Coffee House">
+    <!-- Define information about author-->
+    <meta name="author" content="Raegan Osentowski">
+    <!-- other meta-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- style elements for body and table-->
+    <style>
+        body {
+            background-color: lightgrey;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 14px;
+        }
+
+        table {
+            border: 1px solid gray; 
+        }
+    </style>
+</head>
+
+<body>
+    <img src="beanscoffeeshop.jpeg" width="700" height="200" alt="Beans Coffee" title="Beans Coffee">
+    <h1> Contact</h1>
+    <a href="mailto:raegan@osentowski.net">Email!</a>
+    <address>
+        Beans Coffee House <br />
+        123 Treetopia <br />
+        Missoula, MT 59801 <br />
+        <a href="tel:406 - 926-6911" target="_blank" rel="noopener">406-564-7895</a> <br />
+    </address>
+
+    <p>
+        <table>
+            <tr>
+                <th>Item</th>
+                <th>Cost</th>
+            </tr>
+            <tr>
+                <td>Latte</td>
+                <td>$3.75</td>
+            </tr>
+            <tr>
+                <td>Americano</td>
+                <td>$2.65</td>
+            </tr>
+            <tr>
+                <td>Drip Coffee</td>
+                <td>$2.50</td>
+            </tr>
+            <tr>
+                <td>Cold Brew</td>
+                <td>$4.00</td>
+            </tr>
+            <tr>
+                <td>Mocha</td>
+                <td>$3.75</td>
+            </tr>
+            <tr>
+                <td>Scone</td>
+                <td>$4.25</td>
+            </tr>
+            <tr>
+                <td>Muffin</td>
+                <td>$4.10</td>
+            </tr>  
+            <tr>
+                <td>Gluten Free Muffin</td>
+                <td>$4.10</td>
+            </tr>   
+        </table>
+    </p>
+    <form method="post" action="index.html">
+        Name:<br />
+        <input type="text" id="name" placeholder="Place name here" autofocus>
+        <h2>Hours you visit most frequently</h2>
+        <input type="checkbox" name="Hours you visit most frequently" type="Hours you visit most frequently" value="Monday">Monday<br />
+        <input type="checkbox" name="Hours you visit most frequently" type="Hours you visit most frequently" value="Tuesday">Tuesday<br />
+        <input type="checkbox" name="Hours you visit most frequently" type="Hours you visit most frequently" value="Wednesday">Wednesday<br />
+        <input type="checkbox" name="Hours you visit most frequently" type="Hours you visit most frequently" value="Thursday">Thursday<br />
+        <input type="checkbox" name="Hours you visit most frequently" type="Hours you visit most frequently" value="Friday">Friday<br />
+        <input type="checkbox" name="Hours you visit most frequently" type="Hours you visit most frequently" value="Saturday">Saturday<br />
+        <pr></pr>
+        comments<br />
+        <textarea name="Questions?" id="Questions?" rows="5" col="30">Questions or Comments</textarea>
+        <p></p>
+        Want to stay updated on further information?
+        Yes&nbsp;<input type="radio" name="Information" type="Information" value="yes">
+        No&nbsp;<input type="radio" name="Information" type="Information" value="no">
+        </br>
+        <input type="submit" name="Recieve emails" value="Recieve emails" />
+    </form> 
+</body>
+</html>
