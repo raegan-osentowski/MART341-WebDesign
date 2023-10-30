@@ -6,13 +6,13 @@ body{
     
     /* Draw a solid border make it black */
     border-style: solid;
-    border-width: 8px;
+    border-width: 2px;
     border-color: black;
     /*Add space between the border and its inside elements. */
-    padding: 5px;
+    padding: 1px;
     /* Color the background light green. */
     background : lightseagreen;
-    width: 75%;
+    width: 95%;
     margin: auto;
 }
 
@@ -31,6 +31,7 @@ div.align{
 
 #mainheader{
     position: relative;
+    text-align:center;
     left: 20px;
     top:5px;
     color: Navy;
