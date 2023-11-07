@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('.../fonts/Montserrat.ttf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Times';
+    src: url('...fonts/Times.ttf');
+}
+

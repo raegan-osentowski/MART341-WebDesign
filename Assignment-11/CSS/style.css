@@ -1,0 +1,33 @@
+div{
+    text-align:left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    Margin-Bottom: 6px;
+    padding-bottom: 10%;
+    padding-top: 0%;
+
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+.general-principles{
+    color: beige;
+    font-size: 24px;
+    font-weight: 400;
+
+}
+.Measurement-methods{
+    font-size: 24px;
+    font-style: normal;
+
+}
+#flow_tracking:hover{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: solid;
+    font-weight: 900;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
