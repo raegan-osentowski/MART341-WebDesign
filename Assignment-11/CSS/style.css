@@ -55,6 +55,19 @@ a:hover {
     font-weight: 400;
 
 }
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: #79af33;
+    text-decoration: none;
+}
+a:hover {
+    color:blueviolet;
+    font-style: bold;
+
+}
 #flow:hover{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: solid;
