@@ -20,14 +20,6 @@ h1{
     width: 95%;
     margin: auto;
 
-
-}
-image{
-    text-align: right;
-    float: right;
-    margin: 3px;
-    size: 100px;
-
 }
 .general-principles{
     color: black;
@@ -71,6 +63,13 @@ a:hover {
 }
 div.align{
   text-align: left;
+
+}
+image{
+    text-align: right;
+    float: right;
+    margin: 3px;
+    size: 100px;
 
 }
 
