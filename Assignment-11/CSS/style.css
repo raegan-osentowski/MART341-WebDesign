@@ -1,5 +1,5 @@
 div{
-    text-align:left;
+    text-align:center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     Margin-Bottom: 6px;
     padding-bottom: 10%;
@@ -11,9 +11,15 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 
+
+}
+image{
+    text-align: center;
+    size: 600px;
+
 }
 .general-principles{
-    color: beige;
+    color: black;
     font-size: 24px;
     font-weight: 400;
 
