@@ -73,11 +73,13 @@ a:hover {
     text-decoration: solid;
     font-weight: 900;
 }
-p{
+p:hover{
     font-family: 'Times New Roman', Times, serif;
+    color: black;
 }
 
 div.align{
   text-align: left;
 
 }
+
