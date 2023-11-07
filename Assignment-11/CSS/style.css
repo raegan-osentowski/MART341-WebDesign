@@ -11,10 +11,10 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 
-    border-style: round;
-    border-width: 2px;
+    border-style: outset;
+    border-width: 5px;
     border-color: rgb(236, 127, 127);
-    padding: 5px;
+    padding: 10px;
     background : rgb(214, 194, 102);
     width: 95%;
     margin: auto;
@@ -24,15 +24,15 @@ h1{
 image{
     text-align: right;
     float: right;
-    margin: 5px;
-    size: 300px;
+    margin: 3px;
+    size: 100px;
 
 }
 .general-principles{
     color: black;
-    font-size: 24px;
+    font-size: 28px;
     font-weight: 400;
-    padding: 20px;
+    padding: 10px;
     margin: auto;
 
 }
@@ -50,7 +50,7 @@ a:hover {
 
 }
 .Measurement-methods{
-    font-size: 24px;
+    font-size: 28px;
     font-style: normal;
     font-weight: 400;
 
