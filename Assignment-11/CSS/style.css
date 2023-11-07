@@ -68,16 +68,6 @@ a:hover {
     font-style: bold;
 
 }
-#flow:hover{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-decoration: solid;
-    font-weight: 900;
-}
-p:hover{
-    font-family: 'Times New Roman', Times, serif;
-    color: black;
-}
-
 div.align{
   text-align: left;
 
