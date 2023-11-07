@@ -10,12 +10,13 @@ h1{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+    font-size: xx-large;
 
     border-style: outset;
-    border-width: 5px;
-    border-color: rgb(236, 127, 127);
-    padding: 10px;
-    background : rgb(214, 194, 102);
+    border-width: 10px;
+    border-color: rgb(237, 168, 168);
+    padding: 20px;
+    background : rgb(164, 230, 238);
     width: 95%;
     margin: auto;
 
