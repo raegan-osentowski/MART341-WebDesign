@@ -39,7 +39,7 @@ a:visited {
 }
 a:hover {
     color:blueviolet;
-    font-style: bold;
+    font-style: underline;
 
 }
 .Measurement-methods{
@@ -58,7 +58,7 @@ a:visited {
 }
 a:hover {
     color:blueviolet;
-    font-style: bold;
+    font-style: underline;
 
 }
 div.align{
@@ -70,10 +70,10 @@ image{
     float: right;
     margin: 3px;
     size: 50px;
-    .right {
-        float: right;
-        padding: 0 20px 20px 0;
-       }
 
 }
+.right {
+    float: right;
+    padding: 0 20px 20px 0;
+   }
 
