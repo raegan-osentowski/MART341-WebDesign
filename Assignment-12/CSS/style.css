@@ -2,37 +2,34 @@ body {
     font-size: 10pt;
     margin: 0;
     padding: 0;
-    background-color: rgb(156, 119, 5)65, 151, 42;
+    background-color: rgb(199, 154, 21)65, 151, 42;
     font-family: Verdana, Arial, Tahoma;
     font-size: 12px;
 }
 
-/* Set your header design: */
 header {
     position: fixed;
     top: 0px;
-    background-color: rgb(47, 30, 2);
+    background-color: rgb(86, 55, 4);
     font-family: sans-serif;
     text-transform: uppercase;
     margin-top: 0;
-    height: 4em;
+    height: 10px;
     width: 100%;
     text-align: center;
 }
 
-/* Set the layout of the menu: */
 .menu-item, .site-name {
     display: inline-block;
     margin: 1em .2em;
     min-width: 6em;
     text-align: center;
-    background-color: #f3f4f7;
+    background-color: #e9b61b;
     padding: 0.5em 1em;
 }
 
-/* Style the links: */
 .menu-item a {
-    color: #fff;
+    color: #070606;
     text-decoration: none;
 }
 
@@ -40,7 +37,6 @@ header {
     background-color: #db9166;
 }
 
-/* Add a dropdown feature: */
 .dropdown {
     display: inline-block;
 }
@@ -48,10 +44,10 @@ header {
 .dropdown-content {
     display: none;
     position: absolute;
-    border: 1px solid yellow;
-    margin: 0.5em 0 0 -1em;
-    color: #000;
-    background-color: #f3efef;
+    border: 1px solid rgb(255, 183, 0)5, 191, 0;
+    margin: 2px;
+    color: black;
+    background-color: beige;
     z-index: 1;
 }
 .dropdown-content a {
@@ -62,7 +58,6 @@ header {
     display: block;
 }
 
-/* Style dropdown item display: */
 .dropdown-item {
     display: block;
     text-align: left;
@@ -73,23 +68,27 @@ header {
 
 .dropdown-item:hover, .dropdown-item:hover a {
     color: rgb(234, 177, 72);
-    background-color: #a2a2a2;
+    background-color: #e08a11;
 }
 
 .Cappuccino{
     color: #000;
+    size: 15px;
 }
 
 .Latte{
     color: #000;
+    size: 15px;
 }
 
 .Breve{
     color:#000;
+    size: 15px;
 }
 
 .Cafe{
     color:#000;
+    size: 15px;
 }
 
 .Macchiato{
@@ -98,4 +97,5 @@ header {
 
 .Americano{
     color: #000;
+    size: 15px;
 }
