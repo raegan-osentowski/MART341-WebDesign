@@ -1,0 +1,101 @@
+body {
+    font-size: 10pt;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(156, 119, 5)65, 151, 42;
+    font-family: Verdana, Arial, Tahoma;
+    font-size: 12px;
+}
+
+/* Set your header design: */
+header {
+    position: fixed;
+    top: 0px;
+    background-color: rgb(47, 30, 2);
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: center;
+}
+
+/* Set the layout of the menu: */
+.menu-item, .site-name {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #f3f4f7;
+    padding: 0.5em 1em;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #db9166;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid yellow;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #f3efef;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: rgb(234, 177, 72);
+    background-color: #a2a2a2;
+}
+
+.Cappuccino{
+    color: #000;
+}
+
+.Latte{
+    color: #000;
+}
+
+.Breve{
+    color:#000;
+}
+
+.Cafe{
+    color:#000;
+}
+
+.Macchiato{
+    color: #000;
+}
+
+.Americano{
+    color: #000;
+}
