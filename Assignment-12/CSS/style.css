@@ -19,19 +19,19 @@ header {
     text-align: center;
 }
 
-.title{
-        text-align: center;
-        font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-weight: bold;
-        font-size: 40px;
+h1{
+    text-align: center;
+    font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
     
-        border-style: inset;
-        border-width: 10px;
-        border-color: rgb(241, 195, 108);
-        padding: 20px;
-        background : rgb(100, 66, 3);
-        width: 95%;
-        margin: auto;
+    border-style: inset;
+    border-width: 10px;
+    border-color: rgb(241, 195, 108);
+    padding: 20px;
+    background : rgb(100, 66, 3);
+    width: 95%;
+    margin: auto;
 }
 
 .menu-item, .site-name {
