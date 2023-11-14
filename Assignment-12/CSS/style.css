@@ -10,11 +10,11 @@ body {
 header {
     position: fixed;
     top: 0px;
-    background-color: rgb(86, 55, 4);
+    background-color: rgb(238, 201, 141);
     font-family: sans-serif;
     text-transform: uppercase;
-    margin-top: 0;
-    height: 200px;
+    margin-top: 1px;
+    height: 3px;
     width: 100%;
     text-align: center;
 }
@@ -26,10 +26,10 @@ h1{
     font-size: 40px;
     
     border-style: inset;
-    border-width: 10px;
-    border-color: rgb(241, 195, 108);
-    padding: 20px;
-    background : rgb(100, 66, 3);
+    border-width: 3px;
+    border-color: rgb(63, 43, 5);
+    padding: 10px;
+    background : rgb(243, 184, 74);
     width: 95%;
     margin: auto;
 }
