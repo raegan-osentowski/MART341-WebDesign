@@ -1,37 +1,22 @@
 body {
     font-size: 10pt;
-    margin: 0;
-    padding: 0;
+    margin: 1;
+    padding: 1;
     background-color: rgb(199, 154, 21)65, 151, 42;
     font-family: Verdana, Arial, Tahoma;
-    font-size: 12px;
+    font-size: 20px;
 }
 
 header {
     position: fixed;
-    top: 0px;
+    top: 5px;
     background-color: rgb(238, 201, 141);
     font-family: sans-serif;
     text-transform: uppercase;
-    margin-top: 1px;
+    margin-top: 5px;
     height: 3px;
     width: 100%;
     text-align: center;
-}
-
-h1{
-    text-align: center;
-    font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: bold;
-    font-size: 40px;
-    
-    border-style: inset;
-    border-width: 3px;
-    border-color: rgb(63, 43, 5);
-    padding: 10px;
-    background : rgb(243, 184, 74);
-    width: 95%;
-    margin: auto;
 }
 
 .menu-item, .site-name {
@@ -84,6 +69,20 @@ h1{
 .dropdown-item:hover, .dropdown-item:hover a {
     color: rgb(234, 177, 72);
     background-color: #e08a11;
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    border-style: inset;
+    border-width: 3px;
+    border-color: rgb(63, 43, 5);
+    padding: 10px;
+    background : rgb(243, 184, 74);
+    width: 95%;
+    margin: auto;
 }
 
 .Cappuccino{
