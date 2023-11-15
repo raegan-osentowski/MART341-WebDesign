@@ -1,7 +1,7 @@
 body {
     font-size: 10pt;
-    margin: 10px;
-    padding: 20px;
+    margin: 5px;
+    padding: 5px;
     background-color: rgb(199, 154, 21)65, 151, 42;
     font-family: Verdana, Arial, Tahoma;
     font-size: 20px;
@@ -12,7 +12,7 @@ body {
 
 header {
     position: relative;
-    top: 20px;
+    top: 5px;
     background-color: rgb(238, 201, 141);
     font-family: sans-serif;
     text-transform: uppercase;
@@ -80,7 +80,7 @@ header {
 
 .cap-image {
     float: left;
-    size: 150px;
+    size: 50px;
 }
 
 .Latte{
@@ -89,7 +89,7 @@ header {
 
 .latte-image{
     float: left;
-    size: 150px;
+    size: 50px;
 }
 
 .Breve{
@@ -98,7 +98,7 @@ header {
 
 .breve-image{
     float: left;
-    size: 150px;
+    size: 50px;
 }
 
 .Cafe{
@@ -107,7 +107,7 @@ header {
 
 .cafe-image{
     float:left;
-    size: 150px;
+    size: 50px;
 }
 
 
