@@ -21,8 +21,8 @@ header {
 
 .menu-item, .site-name {
     display: inline-block;
-    margin: 5px;
-    min-width: 6px;
+    margin: 20px;
+    min-width: 100%;
     text-align: center;
     background-color: #e9b61b;
     padding: 10px;
