@@ -71,3 +71,41 @@ header {
     background-color: #e08a11;
 }
 
+.Cappuccino {
+    font-size: 16px
+}
+
+.cap-image {
+    float: left;
+    size: 150px;
+}
+
+.Latte{
+    font-size: 16px;
+}
+
+.latte-image{
+    float: left;
+    size: 150px;
+}
+
+.Breve{
+    font-size: 16px; 
+}
+
+.breve-image{
+    float: left;
+    size: 150px;
+}
+
+.Cafe{
+    font-size: 16px;
+}
+
+.cafe-image{
+    float:left;
+    size: 150px;
+}
+
+
+
