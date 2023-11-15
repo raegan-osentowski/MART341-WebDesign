@@ -8,8 +8,8 @@ body {
 }
 
 header {
-    position: fixed;
-    top: 5px;
+    position: relative;
+    top: 20px;
     background-color: rgb(238, 201, 141);
     font-family: sans-serif;
     text-transform: uppercase;
