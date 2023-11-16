@@ -34,7 +34,7 @@ h3{
     border-color: rgb(56, 37, 3);
     padding: 20px;
     background : rgb(222, 178, 76);
-    width: auto;
+    width: 20%;
     text-align: left;
 
     font-size: 30px;
@@ -46,7 +46,7 @@ h4{
     border-color: rgb(56, 37, 3);
     padding: 20px;
     background : rgb(222, 178, 76);
-    width: auto;
+    width: 20%;
     text-align: left;
 
     font-size: 30px;
@@ -58,9 +58,10 @@ h5{
     border-color: rgb(56, 37, 3);
     padding: 20px;
     background : rgb(222, 178, 76);
-    width: auto;
+    width: 20%;
     text-align: left;
 
+    overflow: scroll;
     font-size: 30px;
 }
 
@@ -74,7 +75,6 @@ header {
     height: 4em;
     width: 100%;
     text-align: center;
-    overflow: scroll;
 }
 
 .menu-item, .site-name {
@@ -158,6 +158,6 @@ header {
     float: left;
 }
 
-.Cafe{
+.float .Cafe{
     float: left;
 }
