@@ -12,6 +12,7 @@ body {
 
 h1{
     text-align: center;
+    margin-top: auto;
     font-size: 24px;
 }
 
@@ -22,7 +23,7 @@ header {
     font-family: sans-serif;
     text-transform: uppercase;
     margin-top: 5px;
-    height: 3px;
+    height: 10px;
     width: 100%;
     text-align: center;
 }
@@ -80,43 +81,43 @@ header {
 }
 
 .Cappuccino {
-    font-size: 16px
+    font-size: 20px
 }
 
 .cap-image {
     float: left;
-    width: 300px;
-    height: 400px;
+    width: 100px;
+    height: 150px;
 }
 
 .Latte{
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .latte-image{
     float: left;
-    width: 300px;
-    height: 400px;
+    width: 100px;
+    height: 150px;
 }
 
 .Breve{
-    font-size: 16px; 
+    font-size: 20px; 
 }
 
 .breve-image{
     float: left;
-    width: 300px;
-    height: 400px;
+    width: 100px;
+    height: 150px;
 }
 
 .Cafe{
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .cafe-image{
     float:left;
-    width: 300px;
-    height: 400px;
+    width: 100px;
+    height: 150px;
 }
 
 
