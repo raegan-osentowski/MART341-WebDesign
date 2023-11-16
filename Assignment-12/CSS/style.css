@@ -27,6 +27,39 @@ h2{
     margin-top: auto;
 }
 
+h3{
+    border-style: outset;
+    border-width: 5%;
+    border-color: rgb(56, 37, 3);
+    padding: 20px;
+    background : rgb(222, 178, 76);
+    width: 20%;
+    text-align: left;
+    margin-top: auto;
+}
+
+h4{
+    border-style: outset;
+    border-width: 5%;
+    border-color: rgb(56, 37, 3);
+    padding: 20px;
+    background : rgb(222, 178, 76);
+    width: 20%;
+    text-align: left;
+    margin-top: auto;
+}
+
+h5{
+    border-style: outset;
+    border-width: 5%;
+    border-color: rgb(56, 37, 3);
+    padding: 20px;
+    background : rgb(222, 178, 76);
+    width: 20%;
+    text-align: left;
+    margin-top: auto;
+}
+
 header {
     position: relative;
     top: 0px;
