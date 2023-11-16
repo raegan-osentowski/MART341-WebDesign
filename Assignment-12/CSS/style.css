@@ -18,12 +18,12 @@ h1{
 
 header {
     position: relative;
-    top: 5px;
+    top: 0px;
     background-color: rgb(238, 201, 141);
     font-family: sans-serif;
     text-transform: uppercase;
-    margin-top: 5px;
-    height: 10px;
+    margin-top: 0;
+    height: 4em;
     width: 100%;
     text-align: center;
 }
@@ -54,7 +54,7 @@ header {
     display: none;
     position: absolute;
     border: 1px solid rgb(255, 183, 0)5, 191, 0;
-    margin: 2px;
+    margin: 0.5em 0 0 -1em;
     color: black;
     background-color: beige;
     z-index: 1;
@@ -71,8 +71,8 @@ header {
     display: block;
     text-align: left;
     margin: 0;
-    padding: 1px;
-    min-width: 5px;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
 }
 
 .dropdown-item:hover, .dropdown-item:hover a {
@@ -86,8 +86,8 @@ header {
 
 .cap-image {
     float: left;
-    width: 100px;
-    height: 150px;
+    width: 50px;
+    height: 60px;
 }
 
 .Latte{
@@ -96,8 +96,8 @@ header {
 
 .latte-image{
     float: left;
-    width: 100px;
-    height: 150px;
+    width: 50px;
+    height: 60px;
 }
 
 .Breve{
@@ -106,8 +106,8 @@ header {
 
 .breve-image{
     float: left;
-    width: 100px;
-    height: 150px;
+    width: 50px;
+    height: 60px;
 }
 
 .Cafe{
@@ -116,8 +116,8 @@ header {
 
 .cafe-image{
     float:left;
-    width: 100px;
-    height: 150px;
+    width: 50px;
+    height: 60px;
 }
 
 
