@@ -3,7 +3,7 @@ body {
     margin: 5px;
     padding: 5px;
     background-color: rgb(199, 154, 21)65, 151, 42;
-    font-family: Verdana, Arial, Tahoma;
+    font-family: "../fonts/OpenSans.tff";
     font-size: 20px;
 
     position:relative;
@@ -16,10 +16,20 @@ h1{
     font-size: 32px;
 }
 
+h2{
+    border-style: outset;
+    border-width: 2%;
+    border-color: rgb(56, 37, 3);
+    padding: 2px;
+    background : rgb(222, 178, 76);
+    width: 5%;
+    margin: auto;
+}
+
 header {
     position: relative;
     top: 0px;
-    background-color: rgb(238, 201, 141);
+    background-color: rgb(73, 46, 3);
     font-family: sans-serif;
     text-transform: uppercase;
     margin-top: 0;
