@@ -36,6 +36,7 @@ header {
     height: 4em;
     width: 100%;
     text-align: center;
+    overflow: scroll;
 }
 
 .menu-item, .site-name {
