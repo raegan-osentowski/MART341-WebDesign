@@ -8,6 +8,7 @@ body {
 
     position:relative;
     top: 20px;
+    overflow: scroll;
 }
 
 h1{
@@ -72,7 +73,7 @@ header {
     font-family: sans-serif;
     text-transform: uppercase;
     margin-top: 0;
-    height: 3em;
+    height: 2em;
     width: 100%;
     text-align: center;
 }
@@ -80,7 +81,7 @@ header {
 .menu-item, .site-name {
     display: inline-block;
     margin: 1em .2em;
-    min-width: 2em;
+    min-width: 4em;
     text-align: center;
     background-color: #e6bd16;
     padding: 1em 1em;
@@ -131,7 +132,6 @@ header {
 
 .Cappuccino {
     font-size: 20px
-    
 }
 
 .Latte{
