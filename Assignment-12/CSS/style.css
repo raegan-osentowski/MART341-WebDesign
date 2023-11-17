@@ -73,7 +73,7 @@ header {
     font-family: sans-serif;
     text-transform: uppercase;
     margin-top: 0;
-    height: 2em;
+    height: 5em;
     width: 100%;
     text-align: center;
 }
@@ -81,10 +81,10 @@ header {
 .menu-item, .site-name {
     display: inline-block;
     margin: 1em .2em;
-    min-width: 4em;
+    min-width: 10em;
     text-align: center;
     background-color: #e6bd16;
-    padding: 1em 1em;
+    padding: 0.5em 1em;
 }
 
 .menu-item a {
