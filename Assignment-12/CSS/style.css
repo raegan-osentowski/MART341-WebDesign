@@ -7,7 +7,7 @@ body {
     font-size: 20px;
 
     position:relative;
-    top: 10px;
+    top: 20px;
 }
 
 h1{
@@ -58,11 +58,12 @@ h5{
     border-color: rgb(56, 37, 3);
     padding: 20px;
     background : rgb(222, 178, 76);
-    width: 5%;
+    width: 2%;
     text-align: left;
 
     overflow: scroll;
     font-size: 30px;
+    position:relative
 }
 
 header {
@@ -72,7 +73,7 @@ header {
     font-family: sans-serif;
     text-transform: uppercase;
     margin-top: 0;
-    height: 3em;
+    height: 5em;
     width: 100%;
     text-align: center;
 }
