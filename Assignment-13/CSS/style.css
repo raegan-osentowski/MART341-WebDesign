@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+}
+
+.textareacomments{
+    padding-bottom: 200px;
+}
+body{
+    background-color: rgb(189, 210, 236);
+}
+div{
+    text-align: left;
+    line-height: 1.45em;
+    font-family: Merriweather, sans-serif;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+h1, h3, h5{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.opening-paragraph{
+    color: black;
+    font-size: 16px;
+    text-indent: 10px;
+    font-weight:400;
+
+}
+.second-paragraph{
+    font-size: 16px;
+}
+
+.third-paragraph{
+    font-size: 16px;
+}
+
+table{
+    border: 2px solid black;
+    font-family:  'Times New Roman', Times, serif;
+    font-weight: 600;
+    padding: 20px;
+}
+
+
+p{
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #02265c;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: center;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #092fcb;
+    padding: 0.5em 1em;
+}
+
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: rgb(128, 128, 128);
+   
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 2px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: #000000;
+    background-color: #ffffff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: black;
+    background-color: #a2a2a2;
+}
+
+.image1{
+    float: left;
+    content:url("../images/Athens.jpeg");
+
+}
+
+.image2{
+        float: left;
+        content:url("../images/greek-letters.png");
+}
+
+.image3{
+    float: right;
+    content:url("../images/Delphi.jpeg");
+}
+
+.image4{
+    content:url("../images/Raegan.jpeg")
+}
+
+.image5{
+    margin: auto;
+    content:url("../images/ocean.jpeg");
+}
+
+.image6{
+    content:url("../images/sunset.jpeg")
+}
