@@ -54,6 +54,21 @@ header {
     width: 100%;
     text-align: center;
 }
+.styles{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #02265c;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: center;
+
+    background-color: rgb(189, 210, 236);
+
+}
 
 .menu-item {
     display: inline-block;
