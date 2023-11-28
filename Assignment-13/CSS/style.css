@@ -22,17 +22,17 @@ h1, h3, h5{
 }
 .opening-paragraph{
     color: black;
-    font-size: 16px;
+    font-size: 20px;
     text-indent: 10px;
     font-weight:400;
 
 }
 .second-paragraph{
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .third-paragraph{
-    font-size: 16px;
+    font-size: 20px;
 }
 
 table{
@@ -40,11 +40,6 @@ table{
     font-family:  'Times New Roman', Times, serif;
     font-weight: 600;
     padding: 20px;
-}
-
-
-p{
-    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 header {
@@ -79,7 +74,6 @@ header {
    
 }
 
-/* Add a dropdown feature: */
 .dropdown {
     display: inline-block;
 }
@@ -117,12 +111,16 @@ header {
 .image1{
     float: left;
     content:url("../images/Athens.jpeg");
+    width: 60px;
+    height: 100px;
 
 }
 
 .image2{
         float: left;
         content:url("../images/greek-letters.png");
+        Width: 100px;
+        height: 50px;
 }
 
 .image3{
