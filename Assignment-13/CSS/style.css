@@ -124,8 +124,8 @@ header {
 .image2{
         float: left;
         content:url("../images/greek-letters.png");
-        Width: 200px;
-        height: 300px;
+        Width: 400px;
+        height: 250px;
 }
 
 .image3{
@@ -145,6 +145,10 @@ header {
 
 .image6{
     content:url("../images/sunset.jpeg")
+}
+
+.map{
+    float:right
 }
 
 .col-1 {width: 8.33%;}
