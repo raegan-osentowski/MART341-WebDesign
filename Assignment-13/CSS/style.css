@@ -22,17 +22,17 @@ h1, h3, h5{
 }
 .opening-paragraph{
     color: black;
-    font-size: 20px;
+    font-size: 30px;
     text-indent: 10px;
     font-weight:400;
 
 }
 .second-paragraph{
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .third-paragraph{
-    font-size: 20px;
+    font-size: 30px;
 }
 
 table{
@@ -132,10 +132,14 @@ header {
     margin: auto;
     float: right;
     content:url("../images/Delphi.jpeg");
+    width: 200px;
+    height: 400px;
 }
 
 .image4{
-    content:url("../images/Raegan.jpeg")
+    content:url("../images/Raegan.jpeg");
+    width: 200px;
+    height: 400px;
 }
 
 .image5{
