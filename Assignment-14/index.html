@@ -7,10 +7,13 @@
     <meta name="viewport" content="device-width, initial-scale=1.0">
 
     <link rel="stylesheet" text="text/css" href="../CSS/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+
 </head>
 
+<header>
 <body>
-  <nav class="navbar navbar-expand-lg navbar-blue bg-blue">
+  <nav class="navbar has-shadow is-blue">
     <div class="container-fluid">
     
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -18,20 +21,25 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-link active" aria-current="page" href="../index.html">General Info</a>
-          <a class="nav-link" href="pages/fly.html">Butterfly</a>
-          <a class="nav-link" href="pages/back.html">Backstroke</a>
-          <a class="nav-link" href="pages/br.html">Breaststroke</a>
-          <a class="nav-link" href="pages/free.html">Freestyle</a>
+          <a class="nav-link active" id="info" aria-current="page" href="../index.html">General Info</a>
+          <a class="nav-link" id="fly" href="pages/fly.html">Butterfly</a>
+          <a class="nav-link" id="back" href="pages/back.html">Backstroke</a>
+          <a class="nav-link" id="br" href="pages/br.html">Breaststroke</a>
+          <a class="nav-link" id="free" href="pages/free.html">Freestyle</a>
         </div>
       </div>
     </div>
   </nav>
-  <div class="row">
-    
-    </div>
-    <div class="info">  
-        Swimming is a life long skill that majority of kids learn. Besides the main stroke, some refer to it as front crawl, kids in lessons learn basic life skills. Once they move up to the swim team coaches work with kids to teach all four strokes. The strokes are butterfly, backstroke, breaststroke, and freestyle. Along with strokes we learn a variety of skills that are listed below. 
+</header>
+
+  <script src="index.js"></script>
+
+    <div class="is-size-1 is-bold has-text-centered">
+    <h1>Swimming General Information</h1> 
+    </div> 
+
+    <div class= "is-size-4 pd-2">   
+        <p>Swimming is a life long skill that majority of kids learn. Besides the main stroke, some refer to it as front crawl, kids in lessons learn basic life skills. Once they move up to the swim team coaches work with kids to teach all four strokes. The strokes are butterfly, backstroke, breaststroke, and freestyle. Along with strokes we learn a variety of skills that are listed below.</p>
         <li>Flip turns</li>
         <li>Dives</li>
         <li>Underwater kicks</li>
@@ -41,11 +49,14 @@
         <li>Fun!</li>
     </div>
 
-    <canvas id="swim" height="600" width="500"></canvas>
-    <script src="images/swim.jpeg"></script>
+    <figure class="image is-400x400">
+        <canvas id="swim pd-0" height="600" width="500"></canvas>
+        <img src="images/swim.jpeg">
+    </figure>
 
-    Sign up for swimming here: <a href="https://www.gomotionapp.com/team/mtmac/page/home">MAC Site</a>
-
+    <div class="is-size-4">
+        <p>Sign up for swimming here: <a href="https://www.gomotionapp.com/team/mtmac/page/home">MAC Site</a></p>
+    </div>
   </div>
     
 </body>
