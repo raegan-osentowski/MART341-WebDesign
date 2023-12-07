@@ -38,6 +38,14 @@ header {
     height: 200px;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    color: rgb(6, 0, 0);
+}
+
 h2 {
     background: #7F7FD5;
     background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);
