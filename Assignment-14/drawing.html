@@ -13,51 +13,51 @@
 <header class="styles">
   <link rel="stylesheet" href="./CSS/style.css" type="text/css" />
 <body>
-  <nav class="navbar has-shadow" id="header">
+  <nav class="navbar has-shadow is-centered" id="header">
     <div class="container-1100px">
      
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler is-centered" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-        <div class="menu-item">
+        <div class="menu-item is-centered">
           <a href="index.html">General Info</a>
         </div> 
-        <div class="menu-item">
+        <div class="menu-item is-centered">
           <a href="fly.html">Butterfly</a>
         </div>
-        <div class="menu-item">
+        <div class="menu-item is-centered">
           <a href="back.html">Backstroke</a>
         </div> 
-        <div class="menu-item">
+        <div class="menu-item is-centered">
           <a href="br.html">Breaststroke</a>
         </div>
-        <div class="menu-item">
+        <div class="menu-item is-centered">
           <a href="free.html">Freestyle</a>
         </div>
-        <div class="menu-item">
-            <a href="drawing.html">Drawing Page</a>
-          </div>
-          
+        <div class="menu-item is-centered">
+          <a href="drawing.html">Drawing Page</a>
+        </div>
+
       </div>
     </div>
   </nav>
 </header>
 
-<title>Drawing Page</title>
-  <section class="container">
-      <div id="toolbar">
-        <h2>draw</h2>
-        <label for="stroke">Stroke</label>
-        <input id="stroke" name='stroke' type="color">
-        <label for="lineWidth">Line Width</label>
-        <input id="lineWidth" name='lineWidth' type="number" value="5">
-        <button id="clear">Clear</button>
-      </div>
-      <div class="Drawing-Board">
-        <canvas id="Drawing-Board"></canvas>
-      </div>
-  </section>
-  <script src=".index.js"></script>
+<body>
+    <section class="container">
+        <div id="toolbar">
+            <h2>Draw.</h2>
+            <label id="stroke">Stroke</label>
+            <input id="stroke" name='stroke' type="color">
+            <label for="lineWidth">Line Width</label>
+            <input id="lineWidth" name='lineWidth' type="number" value="5">
+            <button id="clear">Clear</button>
+        </div>
+        <div class="drawing-board">
+            <canvas id="drawing-board" height="200px" width="100px"></canvas>
+            <script src="js/index.js"></script>
 
+        </div>
+    </section>
 </body>
 </html>

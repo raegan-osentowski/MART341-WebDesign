@@ -43,7 +43,7 @@ body {
     padding: 0;
     height: 100%;
     overflow: hidden;
-    color: rgb(6, 0, 0);
+    color: rgb(15, 14, 14);
 }
 
 h2 {
@@ -68,7 +68,7 @@ h2 {
     background-color: #202020;
 }
 
-#toolbar * {
+#toolbar {
     margin-bottom: 6px;
 }
 
@@ -86,4 +86,8 @@ h2 {
     border-radius: 4px;
     color:white;
     padding: 2px;
+}
+
+.free{
+    position: center
 }
